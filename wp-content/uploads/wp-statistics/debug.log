@@ -1,0 +1,12 @@
+
+2022-12-14 07:02:19: Ошибка базы данных WordPress: Обработка значения для следующего поля не удалась: uri. Значение может иметь избыточную длину или содержать неверные данные.
+2022-12-14 07:02:20: Ошибка базы данных WordPress: Обработка значения для следующего поля не удалась: uri. Значение может иметь избыточную длину или содержать неверные данные.
+2023-01-03 05:45:24: Duplicate entry '2023-01-04' for key 'unique_date'
+2023-01-11 08:10:28: Duplicate entry '2023-01-12' for key 'unique_date'
+2023-01-19 06:14:16: Duplicate entry '2023-01-20' for key 'unique_date'
+2023-02-04 04:32:16: Duplicate entry '2023-02-05' for key 'unique_date'
+2023-02-07 03:38:03: Duplicate entry '2023-02-08' for key 'unique_date'
+2023-02-11 04:17:49: Duplicate entry '2023-02-12' for key 'unique_date'
+2023-02-13 05:14:20: Duplicate entry '2023-02-14' for key 'unique_date'
+2023-02-23 07:22:55: Duplicate entry '2023-02-24' for key 'unique_date'
+2023-02-27 06:50:52: Duplicate entry '2023-02-28' for key 'unique_date'

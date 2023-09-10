@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://host2211191.of.by/sitemap.xml
